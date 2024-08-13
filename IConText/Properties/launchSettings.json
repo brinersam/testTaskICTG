@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IConText": {
+      "commandName": "Project",
+      "commandLineArgs": "-add FirstName:OLDNAME LastName:Doe Salary:100.50\r\n-getall\r\n-update Id:1 FirstName:NEWNAME\r\n-get Id:1\r\n-delete Id:1\r\n-getall"
+    }
+  }
+}
